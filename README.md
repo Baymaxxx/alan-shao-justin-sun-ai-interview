@@ -1,42 +1,62 @@
 # 邵艾伦Alan对话孙宇晨：年轻人如何抓住 AI 时代的机会？
 
-收录同一场对话的两份第三方文字整理版本，方便对照阅读和回查来源。
+两版全文、PDF、精华和配套指南均直接存放在本仓库根目录，可在线阅读或一起下载。
 
 - 原视频：[对话孙宇晨：年轻人如何抓住AI时代的机会？](https://www.youtube.com/watch?v=0Z-vhBvBmUY)
 - 主持人：邵艾伦 Alan Shao；嘉宾：孙宇晨。
 - 两份文字稿标注的视频时长：04:22:29。
 - 收录日期：2026-10-09。
 
-## 全文与 PDF
+## 阅读与下载
 
-下列全文、精华与 PDF 都直接存放在本仓库，可以在线阅读或随仓库一起下载。
-
-| 版本 | 本仓库内的资源 | 说明 |
+| 资源 | 本仓库文件 | 说明 |
 | --- | --- | --- |
-| AI 转录版 | [带时间戳的全文](sources/ai-transcript/全文.md) · [精华](sources/ai-transcript/精华.md) · [配套指南](sources/ai-transcript/guides) | 保留较多口语重复；作者说明做过抽样核对，说话人可能标反。存在“薄肌”等术语识别错误。 |
-| 修订整理版 | [带时间戳的全文](sources/revised-transcript/全文.md) · [精华](sources/revised-transcript/精华.md) · [PDF](sources/revised-transcript/邵艾伦x孙宇晨四小时播客转播稿.pdf) | 作者称修正了人名、术语并清理部分口语重复；仍可见重复和不顺的句子。 |
+| AI 转录版全文 | [逐字稿-AI转录版.md](逐字稿-AI转录版.md) | 带时间戳，保留较多口语重复。作者说明做过抽样核对，说话人可能标反；存在“薄肌”等术语识别错误。 |
+| 修订整理版全文 | [逐字稿-修订版.md](逐字稿-修订版.md) | 带时间戳。作者称修正了人名、术语并清理部分口语重复；仍可见重复和不顺的句子。 |
+| PDF | [邵艾伦x孙宇晨四小时播客转播稿.pdf](邵艾伦x孙宇晨四小时播客转播稿.pdf) | 修订整理版的 PDF。 |
+| 观点精华 | [精华.md](精华.md) | 15 个核心观点及视频时间戳，保留修订版。 |
+| AI 学习提示词 | [AI学习提示词.md](AI学习提示词.md) | 来源仓库的 AGENT.md，保留修订版并改名，供阅读或复制使用。 |
 
 阅读可先使用修订整理版。引用具体话语时，按时间戳核对原视频。以上均为第三方整理，收录者未逐句核对整场音频；修订整理版经过删词整理，不能视作严格逐字记录。
 
-## 来源版本
-
-两个来源仓库的文件已作为普通文件直接收录，保留各自的原始说明、许可证和资源内容。来源信息列在下面用于署名和追溯；上面的阅读入口均指向本仓库。
-
-| 本仓库目录 | 来源仓库 | 来源提交 |
-| --- | --- | --- |
-| [sources/ai-transcript](sources/ai-transcript) | [wousp112/justin-sun-alan-shao-ai-notes](https://github.com/wousp112/justin-sun-alan-shao-ai-notes) | `db8ddd2c2578837a3c900901b24a3108a290d1ea` |
-| [sources/revised-transcript](sources/revised-transcript) | [AayuBal/shaoailun-sunyuchen-podcast](https://github.com/AayuBal/shaoailun-sunyuchen-podcast) | `a20111f1c2c7bc964e3c4f9a68910959ebb23a87` |
-
-## 下载
-
-直接使用 GitHub 的 **Code → Download ZIP**，或执行：
+直接使用 GitHub 的 **Code → Download ZIP** 下载全部文件，或执行：
 
 ```bash
 git clone https://github.com/Baymaxxx/alan-shao-justin-sun-ai-interview.git
 ```
 
-两种方式均包含两版全文、精华、配套指南和 PDF，无需初始化子模块。
+## 配套指南
 
-## 来源与版权
+以下指南来自 AI 转录版的来源仓库，是整理者编写的实践材料，不是访谈逐字原话。
 
-访谈正文版权归原作者所有。两个来源仓库对正文、精华和其他文件的授权说明可能不同，应分别查阅已收录的 [AI 转录版 README](sources/ai-transcript/README.md)、[许可证](sources/ai-transcript/LICENSE) 和 [修订版 README](sources/revised-transcript/README.md)。这个合集保留来源引用，不为上游内容附加新的许可证，也不将其标注为官方逐字稿。
+| 编号 | 文件 |
+| --- | --- |
+| 00 | [准备](00-准备.md) |
+| 01 | [生活 AI 化](01-生活AI化.md) |
+| 02 | [没钱也能开始](02-没钱也能开始.md) |
+| 03 | [升级操作系统](03-升级操作系统.md) |
+| 04 | [百分之百相信 AI](04-百分之百相信AI.md) |
+| 05 | [商机全球找](05-商机全球找.md) |
+| 06 | [先探路再下注](06-先探路再下注.md) |
+| 07 | [身体是本钱](07-身体是本钱.md) |
+| 08 | [逐水草而居](08-逐水草而居.md) |
+| 09 | [机器读得懂](09-机器读得懂.md) |
+| 10 | [内容和投资](10-内容和投资.md) |
+| 11 | [Small ego](11-small-ego.md) |
+| 12 | [先自由后财富](12-先自由后财富.md) |
+| 13 | [游戏版本更新](13-游戏版本更新.md) |
+| 14 | [缺啥补啥](14-缺啥补啥.md) |
+| 15 | [多创造少消费](15-多创造少消费.md) |
+
+## 来源与整理说明
+
+| 资源来源 | 来源提交 |
+| --- | --- |
+| [wousp112/justin-sun-alan-shao-ai-notes](https://github.com/wousp112/justin-sun-alan-shao-ai-notes)：AI 转录全文、配套指南、许可证 | `db8ddd2c2578837a3c900901b24a3108a290d1ea` |
+| [AayuBal/shaoailun-sunyuchen-podcast](https://github.com/AayuBal/shaoailun-sunyuchen-podcast)：修订全文、PDF、精华、AI 学习提示词 | `a20111f1c2c7bc964e3c4f9a68910959ebb23a87` |
+
+两版全文分别保留原有正文，PDF 和配套指南内容保留。两份精华及 AI 学习提示词内容高度重叠，各保留修订版；来源仓库的中英文 README 合并为本页的资源索引和来源说明。文件平铺后，仅相应更新阅读链接。
+
+## 版权
+
+访谈正文版权归孙宇晨、邵艾伦等原作者所有。来源仓库将精华和 AGENT.md 标注为 CC BY 4.0；AI 转录版来源仓库也将教程列为署名使用的材料。保留的 [LICENSE](LICENSE) 来自 AI 转录版来源仓库，转载或使用时应保留各资源的作者及出处。这个合集不为访谈正文附加新的许可证，也不将其标注为官方逐字稿。
