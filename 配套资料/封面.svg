@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="640" viewBox="0 0 1440 640" role="img" aria-labelledby="title desc">
+  <title id="title">邵艾伦 Alan 对话孙宇晨：年轻人如何抓住 AI 时代的机会？</title>
+  <desc id="desc">四小时二十二分钟对话，两版全文，十五个核心观点，提供全文、PDF 和配套指南。</desc>
+  <defs>
+    <radialGradient id="violet"><stop stop-color="#eae7ff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="mint"><stop stop-color="#dcf5eb"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1440" height="640" rx="24" fill="#fff"/>
+  <ellipse cx="1290" cy="55" rx="760" ry="520" fill="url(#violet)"/>
+  <ellipse cx="40" cy="635" rx="750" ry="370" fill="url(#mint)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
+    <rect x="88" y="61" width="46" height="46" rx="12" fill="#4655b8"/>
+    <path d="M101 83l8 8 14-18" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="152" y="94" font-size="28" font-weight="600" fill="#59616f">邵艾伦 Alan × 孙宇晨</text>
+    <text x="88" y="246" font-size="88" font-weight="800" letter-spacing="-2" fill="#17191f">年轻人，如何抓住</text>
+    <text x="88" y="352" font-size="88" font-weight="800" letter-spacing="-2" fill="#4655b8">AI 时代的机会？</text>
+    <text x="91" y="424" font-size="30" fill="#67707b">AI 工具 · 认知与选择 · 个人成长 · 机会与自由</text>
+    <g font-size="26" font-weight="600">
+      <rect x="88" y="493" width="270" height="64" rx="32" fill="#e8e9fc"/>
+      <text x="223" y="534" text-anchor="middle" fill="#4050a3">4 小时 22 分钟</text>
+      <rect x="378" y="493" width="226" height="64" rx="32" fill="#e0f4ec"/>
+      <text x="491" y="534" text-anchor="middle" fill="#26705d">2 版完整文字稿</text>
+      <rect x="624" y="493" width="260" height="64" rx="32" fill="#f1f2f5"/>
+      <text x="754" y="534" text-anchor="middle" fill="#535b69">15 个核心观点</text>
+      <rect x="904" y="493" width="345" height="64" rx="32" fill="#f1f2f5"/>
+      <text x="1076" y="534" text-anchor="middle" fill="#535b69">全文 · PDF · 配套指南</text>
+    </g>
+  </g>
+</svg>
