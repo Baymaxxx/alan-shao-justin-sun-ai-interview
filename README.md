@@ -48,15 +48,6 @@ git clone https://github.com/Baymaxxx/alan-shao-justin-sun-ai-interview.git
 | 14 | [缺啥补啥](配套资料/14-缺啥补啥.md) |
 | 15 | [多创造少消费](配套资料/15-多创造少消费.md) |
 
-## 来源与整理说明
-
-| 资源来源 | 来源提交 |
-| --- | --- |
-| [wousp112/justin-sun-alan-shao-ai-notes](https://github.com/wousp112/justin-sun-alan-shao-ai-notes)：AI 转录全文、配套指南、许可证 | `db8ddd2c2578837a3c900901b24a3108a290d1ea` |
-| [AayuBal/shaoailun-sunyuchen-podcast](https://github.com/AayuBal/shaoailun-sunyuchen-podcast)：修订全文、PDF、精华、AI 学习提示词 | `a20111f1c2c7bc964e3c4f9a68910959ebb23a87` |
-
-两版全文分别保留原有正文，PDF 和配套指南内容保留。两份精华及 AI 学习提示词内容高度重叠，各保留修订版；来源仓库的中英文 README 合并为本页的资源索引和来源说明。目录调整后，仅相应更新阅读链接。
-
 ## 版权
 
 访谈正文版权归孙宇晨、邵艾伦等原作者所有。来源仓库将精华和 AGENT.md 标注为 CC BY 4.0；AI 转录版来源仓库也将教程列为署名使用的材料。保留的 [LICENSE](LICENSE) 来自 AI 转录版来源仓库，转载或使用时应保留各资源的作者及出处。这个合集不为访谈正文附加新的许可证，也不将其标注为官方逐字稿。
