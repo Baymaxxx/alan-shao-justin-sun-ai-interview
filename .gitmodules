@@ -1,0 +1,6 @@
+[submodule "sources/ai-transcript"]
+	path = sources/ai-transcript
+	url = https://github.com/wousp112/justin-sun-alan-shao-ai-notes.git
+[submodule "sources/revised-transcript"]
+	path = sources/revised-transcript
+	url = https://github.com/AayuBal/shaoailun-sunyuchen-podcast.git
