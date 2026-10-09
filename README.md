@@ -21,7 +21,7 @@
   <a href="精华.md"><strong>先看精华</strong></a> ·
   <a href="逐字稿-修订版.md"><strong>阅读修订版全文</strong></a> ·
   <a href="逐字稿-AI转录版.md">阅读 AI 转录版</a> ·
-  <a href="邵艾伦x孙宇晨四小时播客转播稿.pdf?raw=true">下载 PDF</a> ·
+  <a href="https://raw.githubusercontent.com/Baymaxxx/alan-shao-justin-sun-ai-interview/main/%E9%82%B5%E8%89%BE%E4%BC%A6x%E5%AD%99%E5%AE%87%E6%99%A8%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%92%AD%E5%AE%A2%E8%BD%AC%E6%92%AD%E7%A8%BF.pdf">下载 PDF</a> ·
   <a href="#配套指南">配套指南</a> ·
   <a href="https://www.youtube.com/watch?v=0Z-vhBvBmUY">观看原视频</a>
 </p>
@@ -35,7 +35,7 @@
 | 先了解这场对话讲了什么 | [精华.md](精华.md) | 15 个核心观点，每条附视频时间戳。 |
 | 完整阅读，查找具体话题 | [修订版全文](逐字稿-修订版.md) | 在页面内搜索关键词，按时间戳回看原视频。 |
 | 对照另一份转录文字 | [AI 转录版全文](逐字稿-AI转录版.md) | 保留较多口语重复，适合与修订版对照阅读。 |
-| 保存到本地或离线阅读 | [下载 PDF](邵艾伦x孙宇晨四小时播客转播稿.pdf?raw=true) | 也可以打开 [PDF 预览](邵艾伦x孙宇晨四小时播客转播稿.pdf)。 |
+| 保存到本地或离线阅读 | [下载 PDF](https://raw.githubusercontent.com/Baymaxxx/alan-shao-justin-sun-ai-interview/main/%E9%82%B5%E8%89%BE%E4%BC%A6x%E5%AD%99%E5%AE%87%E6%99%A8%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%92%AD%E5%AE%A2%E8%BD%AC%E6%92%AD%E7%A8%BF.pdf) | 也可以打开 [PDF 预览](邵艾伦x孙宇晨四小时播客转播稿.pdf)。 |
 | 把观点放进自己的具体问题 | [AI 学习提示词](配套资料/AI学习提示词.md) | 配合自己的情况使用，具体方案由你判断。 |
 
 ## 全文版本
@@ -80,7 +80,7 @@
 
 核心文件直接放在根目录，配套文件放在 [配套资料](配套资料) 文件夹。所有资源都已收录到本仓库。
 
-- **只要 PDF：** [直接下载](邵艾伦x孙宇晨四小时播客转播稿.pdf?raw=true)。
+- **只要 PDF：** [直接下载](https://raw.githubusercontent.com/Baymaxxx/alan-shao-justin-sun-ai-interview/main/%E9%82%B5%E8%89%BE%E4%BC%A6x%E5%AD%99%E5%AE%87%E6%99%A8%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%92%AD%E5%AE%A2%E8%BD%AC%E6%92%AD%E7%A8%BF.pdf)。
 - **保存全部文件：** [下载仓库 ZIP](https://github.com/Baymaxxx/alan-shao-justin-sun-ai-interview/archive/refs/heads/main.zip)，或使用 GitHub 的 **Code → Download ZIP**。
 - **用 Git 保存：**
 
