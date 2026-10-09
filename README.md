@@ -9,36 +9,34 @@
 
 ## 全文与 PDF
 
-| 版本 | 阅读入口 | 原仓库 | 说明 |
-| --- | --- | --- | --- |
-| AI 转录版 | [带时间戳的全文](https://github.com/wousp112/justin-sun-alan-shao-ai-notes/blob/db8ddd2c2578837a3c900901b24a3108a290d1ea/全文.md) | [wousp112/justin-sun-alan-shao-ai-notes](https://github.com/wousp112/justin-sun-alan-shao-ai-notes) | 保留较多口语重复；作者说明做过抽样核对，说话人可能标反。存在“薄肌”等术语识别错误。 |
-| 修订整理版 | [带时间戳的全文](https://github.com/AayuBal/shaoailun-sunyuchen-podcast/blob/a20111f1c2c7bc964e3c4f9a68910959ebb23a87/全文.md) · [PDF](https://github.com/AayuBal/shaoailun-sunyuchen-podcast/blob/a20111f1c2c7bc964e3c4f9a68910959ebb23a87/邵艾伦x孙宇晨四小时播客转播稿.pdf) | [AayuBal/shaoailun-sunyuchen-podcast](https://github.com/AayuBal/shaoailun-sunyuchen-podcast) | 作者称修正了人名、术语并清理部分口语重复；仍可见重复和不顺的句子。 |
+下列全文、精华与 PDF 都直接存放在本仓库，可以在线阅读或随仓库一起下载。
+
+| 版本 | 本仓库内的资源 | 说明 |
+| --- | --- | --- |
+| AI 转录版 | [带时间戳的全文](sources/ai-transcript/全文.md) · [精华](sources/ai-transcript/精华.md) · [配套指南](sources/ai-transcript/guides) | 保留较多口语重复；作者说明做过抽样核对，说话人可能标反。存在“薄肌”等术语识别错误。 |
+| 修订整理版 | [带时间戳的全文](sources/revised-transcript/全文.md) · [精华](sources/revised-transcript/精华.md) · [PDF](sources/revised-transcript/邵艾伦x孙宇晨四小时播客转播稿.pdf) | 作者称修正了人名、术语并清理部分口语重复；仍可见重复和不顺的句子。 |
 
 阅读可先使用修订整理版。引用具体话语时，按时间戳核对原视频。以上均为第三方整理，收录者未逐句核对整场音频；修订整理版经过删词整理，不能视作严格逐字记录。
 
-## 收录方式与固定版本
+## 来源版本
 
-本仓库使用 Git 子模块收录两个原仓库，保留各自的文件、历史和作者说明。全文与 PDF 阅读链接指向本次固定的提交，不随上游默认分支自动变化。
+两个来源仓库的文件已作为普通文件直接收录，保留各自的原始说明、许可证和资源内容。来源信息列在下面用于署名和追溯；上面的阅读入口均指向本仓库。
 
-| 本地目录 | 固定提交 |
-| --- | --- |
-| [sources/ai-transcript](sources/ai-transcript) | `db8ddd2c2578837a3c900901b24a3108a290d1ea` |
-| [sources/revised-transcript](sources/revised-transcript) | `a20111f1c2c7bc964e3c4f9a68910959ebb23a87` |
+| 本仓库目录 | 来源仓库 | 来源提交 |
+| --- | --- | --- |
+| [sources/ai-transcript](sources/ai-transcript) | [wousp112/justin-sun-alan-shao-ai-notes](https://github.com/wousp112/justin-sun-alan-shao-ai-notes) | `db8ddd2c2578837a3c900901b24a3108a290d1ea` |
+| [sources/revised-transcript](sources/revised-transcript) | [AayuBal/shaoailun-sunyuchen-podcast](https://github.com/AayuBal/shaoailun-sunyuchen-podcast) | `a20111f1c2c7bc964e3c4f9a68910959ebb23a87` |
 
-下载到本地并包含两份原仓库的全部文件：
+## 下载
 
-```bash
-git clone --recurse-submodules https://github.com/Baymaxxx/alan-shao-justin-sun-ai-interview.git
-```
-
-若已经克隆了主仓库：
+直接使用 GitHub 的 **Code → Download ZIP**，或执行：
 
 ```bash
-git submodule update --init --recursive
+git clone https://github.com/Baymaxxx/alan-shao-justin-sun-ai-interview.git
 ```
 
-GitHub 的主仓库 ZIP 不包含子模块正文；需要完整本地副本时，使用上面的递归克隆命令。
+两种方式均包含两版全文、精华、配套指南和 PDF，无需初始化子模块。
 
 ## 来源与版权
 
-访谈正文版权归原作者所有。两个来源仓库对正文、精华和其他文件的授权说明可能不同，应分别查阅其 README 和许可证。这个合集保留来源引用，不为上游内容附加新的许可证，也不将其标注为官方逐字稿。
+访谈正文版权归原作者所有。两个来源仓库对正文、精华和其他文件的授权说明可能不同，应分别查阅已收录的 [AI 转录版 README](sources/ai-transcript/README.md)、[许可证](sources/ai-transcript/LICENSE) 和 [修订版 README](sources/revised-transcript/README.md)。这个合集保留来源引用，不为上游内容附加新的许可证，也不将其标注为官方逐字稿。
